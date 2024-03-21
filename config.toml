@@ -1,7 +1,7 @@
-baseURL = 'https://filipecarneiro.github.io/hugo-bootstrap-theme/'
+baseURL = 'https://jameshu88.github.io/hugo-mock-landing-page/'
 title = "Rex AI"
-author = "Filipe Carneiro"
-copyright = "Open-source <a class=\"text-decoration-none\" href=\"https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE\">MIT</a> Licensed."
+author = "James Huang"
+copyright = "James Huang"
 
 timeZone = 'Europe/London'
 
