@@ -18,5 +18,3 @@ You can see it hosted live on GitHub Pages [here!](https://jameshu88.github.io/h
 - Publish and host static websites on GitHub Pages.
 - Communicate technical concepts through writing and illustration.
 - Collaborate through version control and managing shared repository workflows.
-
-Good luck, and happy coding!
