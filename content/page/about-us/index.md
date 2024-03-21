@@ -1,8 +1,8 @@
 ---
 title: "About Rex AI 🤖👑"
-description: "Learn about Rex AI's mission and the technologies we use."
+description: "Learn about Rex AI, the world's first AI-Cybersecurity Consultant, and the technologies we use to keep you safe."
 draft: false
-tags: ["About Us", "Mission", "Technology"]
+tags: ["Featured", "About Us", "Mission", "Technology"]
 images: ["rexai-about-us-og.jpg"]
 keywords: ["about rex ai", "rex ai mission", "rex ai technology", "hugo about us page", "AI in cybersecurity"]
 aliases:

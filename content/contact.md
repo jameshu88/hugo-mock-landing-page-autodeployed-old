@@ -8,4 +8,4 @@ menu:
 
 # Contact
 
-[Open an issue](https://github.com/filipecarneiro/hugo-bootstrap-theme/issues/new) on GitHub.
+[Feel free to join our mailing list for future job oppurtunities](https://github.com/filipecarneiro/hugo-bootstrap-theme/issues/new) on GitHub.

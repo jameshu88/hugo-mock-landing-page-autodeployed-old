@@ -17,10 +17,8 @@
     radial-gradient(ellipse at bottom right, rgba(var(--bd-accent-rgb), 0.6), transparent 500%), /* Tighter radial gradient */
     radial-gradient(ellipse at center left, rgba(var(--bd-violet-rgb), 0.6), transparent 500%), /* Tighter radial gradient */
     radial-gradient(ellipse at center right, rgba(var(--bd-pink-rgb), 0.6), transparent 500%); /* Tighter radial gradient */
-
-
-
-    }
+    
+}
 
     .btn-bd-primary {
         --bs-btn-font-weight: 600;
@@ -39,7 +37,6 @@
 }
 
 .navbar {
-    color: #c1b3b3;
     @extend .navbar-dark;
 
     --bd-violet-rgb: 112.520718,44.062154,249.437846;
@@ -55,7 +52,6 @@
 }
 
 .list {
-    color: #c1b3b3;
     .card {
         transition: transform 0.2s ease-in-out;
 
@@ -63,6 +59,7 @@
             transform: scale(1.01);
         }
     }
+    color: #c1b3b3;
 }
 
 .navbar-brand {
@@ -72,4 +69,5 @@
     &:hover {
         transform: rotate(-2deg) scale(1.1);
     }
+    color: #c1b3b3;
 }
