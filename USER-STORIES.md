@@ -3,8 +3,7 @@
 ## User Stories
 
 ### Feature: Secure Configuration Wizards
-- **US01 | Guided Secu
-- rity Setup**
+- **US01 | Guided Security Setup**
   - *As a small business owner, I want a guided setup wizard that suggests secure configurations tailored to my specific business needs, so I can ensure my network and systems are securely configured without being an expert.*
 
 - **US02 | Regular Security Health Check-ups**
