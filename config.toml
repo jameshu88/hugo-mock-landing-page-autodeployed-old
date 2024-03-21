@@ -1,7 +1,7 @@
 baseURL = 'https://jameshu88.github.io/hugo-mock-landing-page/'
 title = "Rex AI"
 author = "James Huang"
-copyright = "James Huang"
+copyright = "Copyright James Huang"
 
 timeZone = 'Europe/London'
 
