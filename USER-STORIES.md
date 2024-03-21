@@ -74,10 +74,14 @@
 - **US21 | Simplified Compliance Navigation**
   - *As a small business owner, I want REX AI to simplify the navigation of complex compliance landscapes, offering clear, actionable steps.*
 
-- **US22 | AI-Enhanced Network Monitoring**: As a network operator, I want REX AI to provide enhanced network monitoring capabilities that predict potential failures or vulnerabilities.
+- **US22 | AI-Enhanced Network Monitoring**: 
+  - As a network operator, I want REX AI to provide enhanced network monitoring capabilities that predict potential failures or vulnerabilities.
 
-- **US23 | Cybersecurity Risk Assessment Tools**: As a risk manager, I want REX AI to include cybersecurity risk assessment tools that evaluate and prioritize risks based on my business context.
+- **US23 | Cybersecurity Risk Assessment Tools**: 
+  - As a risk manager, I want REX AI to include cybersecurity risk assessment tools that evaluate and prioritize risks based on my business context.
 
-- **US24 | Secure Code Training for Developers**: As a software developer, I want REX AI to offer secure coding training modules, helping me learn about common vulnerabilities and mitigations.
+- **US24 | Secure Code Training for Developers**: 
+  - As a software developer, I want REX AI to offer secure coding training modules, helping me learn about common vulnerabilities and mitigations.
 
-- **US25 | User-Friendly Data Encryption**: As a non-technical user, I want easy-to-use data encryption tools for my files and communications, ensuring my sensitive information is protected.
+- **US25 | User-Friendly Data Encryption**: 
+  - As a non-technical user, I want easy-to-use data encryption tools for my files and communications, ensuring my sensitive information is protected.
