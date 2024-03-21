@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rex AI</title>
+    <link>https://jameshu88.github.io/hugo-mock-landing-page/</link>
+    <description>Recent content on Rex AI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>James Huang</copyright>
+    <atom:link href="https://jameshu88.github.io/hugo-mock-landing-page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://jameshu88.github.io/hugo-mock-landing-page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jameshu88.github.io/hugo-mock-landing-page/about/</guid>
+      <description>About Us Made with ❤️ by the Hugo Bootstrap Theme team.</description>
+    </item>
+    <item>
+      <title>About Rex AI 🤖👑</title>
+      <link>https://jameshu88.github.io/hugo-mock-landing-page/page/about-us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jameshu88.github.io/hugo-mock-landing-page/page/about-us/</guid>
+      <description>About Rex AI Rex AI is on a mission to democratize cybersecurity, making it accessible and understandable for businesses and individuals alike. By leveraging cutting-edge AI technologies, Rex AI aims to provide powerful, user-friendly solutions that protect against online threats.&#xA;Our Mission Rex AI believes that everyone deserves to be safe online. Our mission is to simplify cybersecurity, making it as accessible as turning on a light. We empower our users with the tools and knowledge they need to protect themselves in the digital age.</description>
+    </item>
+    <item>
+      <title>Code of Conduct</title>
+      <link>https://jameshu88.github.io/hugo-mock-landing-page/code-of-conduct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jameshu88.github.io/hugo-mock-landing-page/code-of-conduct/</guid>
+      <description>Contributor Covenant Code of Conduct Our Pledge We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.&#xA;We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://jameshu88.github.io/hugo-mock-landing-page/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jameshu88.github.io/hugo-mock-landing-page/contact/</guid>
+      <description>Contact Contact us on LinkedIn mailing list for future job oppurtunities!</description>
+    </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://jameshu88.github.io/hugo-mock-landing-page/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jameshu88.github.io/hugo-mock-landing-page/privacy-policy/</guid>
+      <description>Privacy Policy TLDR: We do not use cookies and we do not collect any personal data.&#xA;Website visitors No personal information is collected. No information is stored in the browser. No information is shared with, sent to or sold to third-parties. No information is shared with advertising companies. No information is mined and harvested for personal and behavioral trends. No information is monetized. Information we collect and what we use it for The server hosting this site can collect the following information:</description>
+    </item>
+    <item>
+      <title>Sobre</title>
+      <link>https://jameshu88.github.io/hugo-mock-landing-page/about.pt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jameshu88.github.io/hugo-mock-landing-page/about.pt/</guid>
+      <description>Sobre nós Feito com ❤️ pela equipa Hugo Bootstrap Theme.</description>
+    </item>
+  </channel>
+</rss>

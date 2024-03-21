@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Us on Rex AI</title>
+    <link>https://jameshu88.github.io/hugo-mock-landing-page/tags/about-us/</link>
+    <description>Recent content in About Us on Rex AI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>James Huang</copyright>
+    <atom:link href="https://jameshu88.github.io/hugo-mock-landing-page/tags/about-us/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Rex AI 🤖👑</title>
+      <link>https://jameshu88.github.io/hugo-mock-landing-page/page/about-us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jameshu88.github.io/hugo-mock-landing-page/page/about-us/</guid>
+      <description>About Rex AI Rex AI is on a mission to democratize cybersecurity, making it accessible and understandable for businesses and individuals alike. By leveraging cutting-edge AI technologies, Rex AI aims to provide powerful, user-friendly solutions that protect against online threats.&#xA;Our Mission Rex AI believes that everyone deserves to be safe online. Our mission is to simplify cybersecurity, making it as accessible as turning on a light. We empower our users with the tools and knowledge they need to protect themselves in the digital age.</description>
+    </item>
+  </channel>
+</rss>
