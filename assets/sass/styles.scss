@@ -5,20 +5,11 @@
     --bd-violet-rgb: 112.520718,44.062154,249.437846;
     --bd-accent-rgb: 255,228,132;
     --bd-pink-rgb: 214,51,132;
-    background-color: black; 
-    color: #c1b3b3; //set text color to white
 
     .bd-masthead {
-        color: #d8d2d2;
         padding: 3rem 0;
-        background-image: 
-    linear-gradient(0deg, black, rgba(var(--bs-body-bg-rgb), 0.85) 1000%), /* Transition to black starts sooner */
-    radial-gradient(ellipse at bottom left, rgba(var(--bs-primary-rgb), 0.6), transparent 300%), /* Tighter radial gradient */
-    radial-gradient(ellipse at bottom right, rgba(var(--bd-accent-rgb), 0.6), transparent 500%), /* Tighter radial gradient */
-    radial-gradient(ellipse at center left, rgba(var(--bd-violet-rgb), 0.6), transparent 500%), /* Tighter radial gradient */
-    radial-gradient(ellipse at center right, rgba(var(--bd-pink-rgb), 0.6), transparent 500%); /* Tighter radial gradient */
-    
-}
+        background-image: linear-gradient(180deg, rgba(var(--bs-body-bg-rgb), 0.01), rgba(var(--bs-body-bg-rgb), 1) 85%),radial-gradient(ellipse at top left, rgba(var(--bs-primary-rgb), 0.5), transparent 50%),radial-gradient(ellipse at top right, rgba(var(--bd-accent-rgb), 0.5), transparent 50%),radial-gradient(ellipse at center right, rgba(var(--bd-violet-rgb), 0.5), transparent 50%),radial-gradient(ellipse at center left, rgba(var(--bd-pink-rgb), 0.5), transparent 50%);
+    }
 
     .btn-bd-primary {
         --bs-btn-font-weight: 600;
@@ -59,27 +50,12 @@
             transform: scale(1.01);
         }
     }
-    color: #c1b3b3;
 }
 
 .navbar-brand {
-    color: #c1b3b3;
     transition: transform 0.2s ease-in-out;
 
     &:hover {
         transform: rotate(-2deg) scale(1.1);
     }
-    color: #c1b3b3;
-}
-
-.bg-dark-grey {
-    background-color: #343a40; /* Dark grey */
-}
-
-.light-grey {
-    color: #b2b9c1; /* Dark grey */
-}
-
-.white {
-    color: #ffffff; /* Dark grey */
 }
