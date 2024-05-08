@@ -1,7 +1,7 @@
-baseURL = 'https://jameshu88.github.io/hugo-mock-landing-page-autodeployed/'
-title = "Rex AI"
-author = "James Huang"
-copyright = "Made by James Huang"
+baseURL = 'https://filipecarneiro.github.io/hugo-bootstrap-theme/'
+title = "Hugo Bootstrap Theme"
+author = "Filipe Carneiro"
+copyright = "Open-source <a class=\"text-muted text-decoration-none\" href=\"https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE\">MIT</a> Licensed."
 
 timeZone = 'Europe/London'
 
@@ -13,7 +13,7 @@ theme = "hugo-bootstrap-theme"
 
 disableHugoGeneratorInject = true
 enableRobotsTXT = true
-enableGitInfo = true
+#enableGitInfo = true
 enableEmoji = true
 #sectionPagesMenu = "main"
 #googleAnalytics = "UA-1511XXXX-X"
